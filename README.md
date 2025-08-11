@@ -1,4 +1,4 @@
-# Image-_based_story
+# Image_based_story
 **📖 StoryVision – Transform Images into Stories**
 
 StoryVision is a web application that allows users to upload an image and automatically generate a unique, creative story based on its content. Using AI and image analysis, the platform turns pictures into engaging narratives — perfect for creative writing, social media content, or fun storytelling.
